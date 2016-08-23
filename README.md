@@ -39,7 +39,7 @@ or LESS files.
 
 ### With Docker
 
-You can also run Charted via _docker_ by running
+You can also run csvPeek via _docker_ by running
 `docker build -t csvPeek .` in the repo to build the container. You
 will then be able to run the container using
 `docker run -p 3000:3000 csvPeek`. Server will be accessible at
