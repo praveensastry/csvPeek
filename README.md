@@ -40,9 +40,9 @@ or LESS files.
 ### With Docker
 
 You can also run Charted via _docker_ by running
-`docker build -t charted .` in the repo to build the container. You
+`docker build -t csvPeek .` in the repo to build the container. You
 will then be able to run the container using
-`docker run -p 3000:3000 charted`. Server will be accessible at
+`docker run -p 3000:3000 csvPeek`. Server will be accessible at
 localhost:3000
 
 
