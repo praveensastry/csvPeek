@@ -1,6 +1,6 @@
 {
-  "name": "charted",
-  "description": "A charting library from Medium",
-  "repository": "https://github.com/mikesall/charted",
+  "name": "csvPeek",
+  "description": "A charting library from PastryLabs",
+  "repository": "https://github.com/praveensastry/csvPeek",
   "keywords": ["node", "express", "static", "charts"]
 }
