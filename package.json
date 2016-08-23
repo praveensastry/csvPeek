@@ -1,7 +1,7 @@
 {
-  "name": "chartedjs",
+  "name": "csvPeekjs",
   "version": "2.0.2",
-  "description": "A charting library originally created by the Product Science team at Medium",
+  "description": "A charting library originally created by the Product Science team at Pastry Labs",
   "main": "out/server/charted.js",
   "scripts": {
     "postinstall": "bin/build",
@@ -14,16 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mikesall/charted.git"
+    "url": "git@github.com:praveensastry/csvPeek.git"
   },
   "keywords": [
     "charts"
   ],
   "author": "Mike Sall <mike@medium.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mikesall/charted/issues"
-  },
+  ,
   "dependencies": {
     "babel": "6.0.x",
     "babel-cli": "6.3.x",
@@ -46,5 +44,5 @@
   "engines": {
     "node": ">=4.1.1"
   },
-  "homepage": "http://www.charted.co/"
+  "homepage": "http://www.pastrylabs.io/"
 }
